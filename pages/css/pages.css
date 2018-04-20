@@ -16,3 +16,25 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+.pos{
+    color: green;
+}
+
+.neg{
+    color: red;
+}
+
+.pp{
+    width: 80%;
+    margin-top: 15px;
+    padding: 10px;
+    background-color: lightgreen;
+}
+
+.np {
+    width: 80%;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: lightcoral;
+}
