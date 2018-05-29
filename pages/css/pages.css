@@ -38,3 +38,30 @@ img {
     padding: 10px;
     background-color: lightcoral;
 }
+
+img{
+    float: left;
+    margin-top: -130px;
+    width: 5%;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    margin-left: 90px;
+}
+
+.grey {
+    height: 500px;
+    padding-top: 30px;
+    padding-left: 30px;
+    background-color:hsl(0, 3%, 15%);
+}
+
+#blauw {
+    color: hsl(215, 62%, 55%);
+}
+
+#wit {
+    color: white;
+}
