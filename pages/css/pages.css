@@ -45,6 +45,11 @@ img{
     width: 5%;
 }
 
+#h1{
+    padding-top: 25px;
+    margin-left: 300px;
+ }
+
 h2 {
     font-family: 'Raleway', sans-serif;
     color: black;
@@ -53,6 +58,7 @@ h2 {
 
 .grey {
     height: 200px;
+    width: 98%;
     padding-top: 30px;
     padding-left: 30px;
     background-color:hsl(0, 3%, 15%);
@@ -73,6 +79,12 @@ h2 {
     margin-left: 265px;
 }
 
+#witrechts2 {
+    width: 500px;
+    color: white;
+    margin-left: 300px;
+}
+
 #zwartrechts {
     width: 500px;
     color: black;
@@ -80,15 +92,115 @@ h2 {
     margin-left: 300px;
 }
 
-.backback {
-    background-color: lightgray;
+#zwartrechts2 {
+    margin-top: -50px;
+    width: 500px;
+    color: black;
+    margin-left: 300px;
+}
+
+#zwartrechts3 {
+    width: 500px;
+    color: black;
+    margin-left: 300px;
+}
+
+.nav h2, .tekst h2{
+ margin-left: 300px;
 }
 
 .nav{
     height: 260px;
 }
 .nav img{
-    width: 70%;
+    width: 100%;
     margin-top: 5px;
-    margin-left: 30px; 
+}
+
+.tekst{
+    height: 300px;
+    width: 100%;
+    padding-top: 30px;
+    background-color:hsl(0, 3%, 15%);
+}
+
+.icons{
+    height: 300px;
+    width: 100%;
+    padding-top: 30px;
+    background-color:hsl(0, 3%, 15%);
+}
+
+.icons img{
+    width: 20%;
+    margin-top: -80px;
+    margin-left: 10px;
+}
+
+.icons h2{
+    margin-left: 300px;
+}
+
+
+.tekst img{
+    margin-left: 20px;
+    padding-top: 90px;
+    width: 20%;
+}
+
+.ul1{
+    width: 500px;
+    color: black;
+    margin-left: 300px;
+}
+
+.button {
+    background-color:hsl(215, 62%, 55%);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-left: 30px;
+}
+
+.button:hover {
+    opacity: 50%;
+    background-color: hsla(215, 62%, 55%, 0.8);
+    color: white;
+}
+
+#button {
+    margin-left: 300px; 
+}
+
+#kleuren{
+    margin-left: 300px;
+}
+
+.kleur img{
+    padding-top: 90px;
+    margin-left: 10px;
+    width: 20%;
+}
+
+.afbeeldingen{
+        margin-top: 50px;
+        height: 400px;
+        width: 100%;
+        padding-top: 30px;
+        background-color:hsl(0, 3%, 15%);
+}
+
+.afbeeldingen img{
+    margin-top: 40px;
+    width: 200%;
+}
+
+#afbh2 {
+    color: white;
+    margin-left: 300px;
 }
